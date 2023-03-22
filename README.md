@@ -1,6 +1,6 @@
 # Projects
 
-## Project Numbering /n
+## Project Numbering/n
 **A0000** : Analysis /n
 **ML0000** : Machin Learning /n
 **NLP000** : Natural Language /n
